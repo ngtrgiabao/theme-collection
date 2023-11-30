@@ -2,5 +2,6 @@
 
 # E-commerce
 
-- https://leisury.vn/?fbclid=IwAR1YzrxNQGVjqVF--O-ykNcOCiKVofOw4czFHk_qfetgfPRHdPS9cww9yec
-- https://slurplaboratories.com/
+- [Leisury](https://leisury.vn/)
+- [Slurp](https://slurplaboratories.com/)
+- [Cool mate](https://www.coolmate.me/)
