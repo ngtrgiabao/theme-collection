@@ -2,6 +2,6 @@
 
 # E-commerce
 
-- [Leisury](https://leisury.vn/)
-- [Slurp](https://slurplaboratories.com/)
-- [Cool mate](https://www.coolmate.me/)
+&minus; [Leisury](https://leisury.vn/) <br />
+&minus; [Slurp](https://slurplaboratories.com/) <br />
+&minus; [Cool mate](https://www.coolmate.me/) <br />
