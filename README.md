@@ -9,3 +9,4 @@
 &minus; [willworkjewelry](https://willworkjewelry.com/) <br />
 &minus; [oluolin](https://oluolin.com/) <br />
 &minus; [modevue](https://modevue.com/) <br />
+&minus; [theringshop](https://theringshop.com/) <br />
