@@ -14,7 +14,8 @@
 &minus; [tiredcity](https://tiredcity.com/) <br />
 &minus; [toptify](https://toptify.vn/) <br />
 
-# Shopify (Buy premium shopify theme. Just 5$ !!!)
+# Shopify (Buy premium shopify theme. Just 10$ !!!)
+[See more](https://yanji.gumroad.com/)
 
 
 
